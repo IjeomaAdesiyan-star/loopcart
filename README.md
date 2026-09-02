@@ -14,7 +14,7 @@ This lab covers: cloning a repo, creating a feature branch, writing and testing 
 - Terminal access (Windows users: use Git Bash)
 
 ## Getting Started
-Clone the repository: git clone https://github.com/penntcup/loopcart.git loopcart  
+Clone the repository: git clone https://github.com/IjeomaAdesiyan-star/loopcart.git loopcart
 Enter the folder: cd loopcart  
 Run the app: python3 app.py
 
