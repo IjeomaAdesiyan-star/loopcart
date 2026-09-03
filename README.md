@@ -235,7 +235,7 @@ git push -u origin feat/your-feature
 
 ---
 
-## 📚 What I Learned
+## 📚 Learning Outcomes
 
 This project provided hands-on practice with:
 
